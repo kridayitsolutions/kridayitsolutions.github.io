@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>rustic-backup privacy policy</title>
+</head>
+<body style="font-family:sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem">
+  <h1>Privacy policy</h1>
+  <p>Last updated: 10 October 2026</p>
+  <p>rustic-backup is a private tool operated by [YOUR NAME OR COMPANY]. It is used only by its owner to back up the owner's own server data to the owner's own Google Drive account.</p>
+  <h2>Data accessed</h2>
+  <p>The app uses the Google Drive "drive.file" permission. With it, the app can only see and manage files that it creates itself in the owner's Drive. It cannot access any other Drive files, Gmail, contacts or other Google data.</p>
+  <h2>How data is used</h2>
+  <p>The app stores and retrieves encrypted backup files. Nothing else is done with the data.</p>
+  <h2>Sharing</h2>
+  <p>No data is shared with, sold to or transferred to any third party. There is no advertising or analytics.</p>
+  <h2>Storage and revocation</h2>
+  <p>Backup files stay in the owner's Google Drive. The access token is stored only on the owner's server. The owner can revoke access at any time at <a href="https://myaccount.google.com/permissions">myaccount.google.com/permissions</a>.</p>
+  <h2>Google API Services User Data Policy</h2>
+  <p>The use of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements.</p>
+  <h2>Contact</h2>
+  <p>[YOUR EMAIL]</p>
+</body>
+</html>
